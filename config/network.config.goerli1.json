@@ -1,0 +1,56 @@
+{
+  "network": "goerli",
+  "chainId": 5,
+  "deployments": [
+    {
+      "name": "singletonFactory",
+      "contract": "SingletonFactory",
+      "address": "0xce0042b868300000d44a59004da54a005ffdcf9f"
+    },
+    {
+      "name": "deployAndExecute",
+      "contract": "DeployAndExecute",
+      "address": "0x222a492b1210316dc32a535f91b28178add73e1b"
+    },
+    {
+      "name": "weth",
+      "contract": "WETH9",
+      "address": "0xb4fbf271143f4fbf7b91a5ded31805e42b2208d6"
+    },
+    {
+      "name": "callExecutor",
+      "contract": "CallExecutor",
+      "address": "0x1fb06ae9498d3643806e957bb4b3f2a7b83c7b88"
+    },
+    {
+      "name": "accountLogic",
+      "contract": "AccountLogic",
+      "address": "0xc6a464130f1dcd903ad5d1b4aa639dfd8d48bc46"
+    },
+    {
+      "name": "proxyAdminDelegated",
+      "contract": "ProxyAdminDelegated",
+      "address": "0x5b31177df22e6df0fef77f1f7b468e5304c7d1b5"
+    },
+    {
+      "name": "uniswapFactory",
+      "contract": "UniswapFactory",
+      "address": "0x6dd121446b443945353d31145a498502b7534dbc"
+    },
+    {
+      "name": "uniswapV2Factory",
+      "contract": "UniswapV2Factory",
+      "address": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f"
+    },
+    {
+      "name": "uniswapV2Router02",
+      "contract": "UniswapV2Router02",
+      "address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d"
+    }
+  ],
+  "adapterOwnerAddress": "0x3d0f0f5fb3dc5a8c0618efc530be9df64023db9b",
+  "excessRecipientAddress": "0x3d0f0f5fb3dc5a8c0618efc530be9df64023db9b",
+  "accountVersion": "1",
+  "accountDeploymentSalt": "0x07f35de90023a2abca1d8b55d7585c94a95de19c88e63aee9b84f85e62813f20",
+  "contractDeploymentSalt": "0x07f35de90023a2abca1d8b55d7585c94a95de19c88e63aee9b84f85e62813f20"
+}

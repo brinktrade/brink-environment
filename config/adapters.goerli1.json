@@ -1,0 +1,34 @@
+[
+  {
+    "name": "uniV1ExcessIn",
+    "contract": "UniV1ExcessIn",
+    "source": "UniswapV1",
+    "address": "0xc95cdcce8decf5f42e29a48153803c53782109e7",
+    "disabled": true
+  },
+  {
+    "name": "uniV1ExcessOut",
+    "contract": "UniV1ExcessOut",
+    "source": "UniswapV1",
+    "address": "0x91a2dd80c22c7e5383bd5e95b38241851156ca1d",
+    "disabled": true
+  },
+  {
+    "name": "uniV2ExcessIn",
+    "contract": "UniV2ExcessIn",
+    "source": "UniswapV2",
+    "address": "0x9cceb7fcca3f0c31b8148e4cedcfdc1a9fb93279"
+  },
+  {
+    "name": "uniV2ExcessOut",
+    "contract": "UniV2ExcessOut",
+    "source": "UniswapV2",
+    "address": "0x35446cff52116648fe33c4075812b70278ba4513"
+  },
+  {
+    "name": "uniV2ExcessWethCrossPair",
+    "contract": "UniV2ExcessWethCrossPair",
+    "source": "UniswapV2",
+    "address": "0xf8e2721235057ad592bd19be2b11d7dff62fc178"
+  }
+]

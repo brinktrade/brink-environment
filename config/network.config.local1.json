@@ -1,0 +1,76 @@
+{
+  "network": "hardhat",
+  "chainId": 1337,
+  "deployments": [
+    {
+      "name": "singletonFactory",
+      "contract": "SingletonFactory",
+      "address": "0x1bfb5a88e3b90d744c10eb46958fedd00dcd6dc8"
+    },
+    {
+      "name": "deployAndExecute",
+      "contract": "DeployAndExecute",
+      "address": "0xbe4584bf23a18f87457c088c278d0e6da269dc93"
+    },
+    {
+      "name": "weth",
+      "contract": "WETH9",
+      "address": "0xfa8db948bce1f637a75d1e55dfdf16eb0b8738df"
+    },
+    {
+      "name": "callExecutor",
+      "contract": "CallExecutor",
+      "address": "0x469b68003a7b7ba99a4d321fafa66b0e9add73b4"
+    },
+    {
+      "name": "accountLogic",
+      "contract": "AccountLogic",
+      "address": "0x38896d79c0b98ac6254c124478844a0e761e73b9"
+    },
+    {
+      "name": "proxyAdminDelegated",
+      "contract": "ProxyAdminDelegated",
+      "address": "0x75d610311876100fed300da2ce8a85495f9ae03e"
+    },
+    {
+      "name": "uniswapV3RangeOrdersDelegated",
+      "contract": "UniswapV3RangeOrdersDelegated",
+      "address": "0xcac08bacdc0e056d207432984469d3856b95f915"
+    },
+    {
+      "name": "uniswapV2Factory",
+      "contract": "UniswapV2Factory",
+      "address": "0xfa2589ac8e8390463a3a54fd1ab39aab8f8b6e34"
+    },
+    {
+      "name": "uniswapV2Router02",
+      "contract": "UniswapV2Router02",
+      "address": "0x53ca2c92cb51f9b9b6a25d537aa7e33c803bb011"
+    },
+    {
+      "name": "uniswapV3Factory",
+      "contract": "UniswapV3Factory",
+      "address": "0x1914d3c8d1d8fc5c583d821bf3852b9a1198b71a"
+    },
+    {
+      "name": "swapRouter",
+      "contract": "SwapRouter",
+      "address": "0x219acb7a798879e3f8ca6912475e3a62ca9a19c6"
+    },
+    {
+      "name": "nonfungiblePositionManager",
+      "contract": "NonfungiblePositionManager",
+      "address": "0x06ec92f4adaec9fc078be5a440067dca62bb07c9"
+    },
+    {
+      "name": "rangeOrderPositionManager",
+      "contract": "RangeOrderPositionManager",
+      "address": "0xe13a6bd3861f32febc45a06b7164cb893051ff89"
+    }
+  ],
+  "adapterOwnerAddress": "0x04e7a0445daea84736d98ad1c6d8571f366a3bae",
+  "excessRecipientAddress": "0x04e7a0445daea84736d98ad1c6d8571f366a3bae",
+  "accountVersion": "1",
+  "accountDeploymentSalt": "0x07f35de90023a2abca1d8b55d7585c94a95de19c88e63aee9b84f85e62813f20",
+  "contractDeploymentSalt": "0x07f35de90023a2abca1d8b55d7585c94a95de19c88e63aee9b84f85e62813f20"
+}

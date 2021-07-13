@@ -1,0 +1,4 @@
+secrets**
+config/secrets**
+node_modules
+scripts

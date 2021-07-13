@@ -1,0 +1,26 @@
+[
+  {
+    "name": "uniV2ExcessIn",
+    "contract": "UniV2ExcessIn",
+    "source": "UniswapV2",
+    "address": "0x16400b235096fa53ebd00f8a862d9b53c513fb62"
+  },
+  {
+    "name": "uniV2ExcessOut",
+    "contract": "UniV2ExcessOut",
+    "source": "UniswapV2",
+    "address": "0x31300732a8a692b572c34b439da9d02e109daf3d"
+  },
+  {
+    "name": "uniV2ExcessWethCrossPair",
+    "contract": "UniV2ExcessWethCrossPair",
+    "source": "UniswapV2",
+    "address": "0x6c4377830476a3c33d4a9dfcd87c5b75e2351fcd"
+  },
+  {
+    "name": "uniV3RangeOrdersAdapter",
+    "contract": "UniV3RangeOrdersAdapter",
+    "source": "RangeOrderPositionManager",
+    "address": "0x5b9bc7806392f117a93da30ae923d4ba4e8b24d5"
+  }
+]

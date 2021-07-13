@@ -1,0 +1,100 @@
+[
+  {
+    "name": "BandToken",
+    "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+    "symbol": "BAND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png",
+    "excessAllowed": false
+  },
+  {
+    "name": "Basic Attention Token",
+    "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png",
+    "excessAllowed": false
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "excessAllowed": true,
+    "excessPriority": 1
+  },
+  {
+    "name": "Gnosis Token",
+    "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
+    "symbol": "GNO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png",
+    "excessAllowed": false
+  },
+  {
+    "name": "Kyber Network Crystal",
+    "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
+    "excessAllowed": false
+  },
+  {
+    "name": "ChainLink Token",
+    "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+    "excessAllowed": false
+  },
+  {
+    "name": "LoomToken",
+    "address": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
+    "symbol": "LOOM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png",
+    "excessAllowed": false
+  },
+  {
+    "name": "Decentraland MANA",
+    "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+    "symbol": "MANA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png",
+    "excessAllowed": false
+  },
+  {
+    "name": "Maker",
+    "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+    "symbol": "MKR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png",
+    "excessAllowed": false
+  },
+  {
+    "name": "Synthetix Network Token",
+    "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
+    "excessAllowed": false
+  },
+  {
+    "name": "TrueUSD",
+    "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0000000000085d4780B73119b644AE5ecd22b376/logo.png",
+    "excessAllowed": true,
+    "excessPriority": 2
+  },
+  {
+    "name": "0x Protocol Token",
+    "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png",
+    "excessAllowed": false
+  }
+]

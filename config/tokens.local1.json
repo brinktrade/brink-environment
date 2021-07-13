@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Tether USD",
+    "address": "0xe7b9d7cd757a1a6838985c83c7f571346ee78e81",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "excessAllowed": false,
+    "mockUniV1Pool": {
+      "token": 88000000,
+      "ether": 232000
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 89000000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 222000
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 89000000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 222000
+      }
+    ]
+  },
+  {
+    "name": "USDCoin",
+    "address": "0x0fc1b14d1b84c002be0cfee8f57a54b8dcc7ac91",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "excessAllowed": true,
+    "excessPriority": 2,
+    "mockUniV1Pool": {
+      "token": 80000000,
+      "ether": 211000
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 79000000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 221000
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 79000000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 221000
+      }
+    ]
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xcfd77caf9160909b361f597c94ff27e05ca6c880",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+    "excessAllowed": true,
+    "excessPriority": 1,
+    "mockUniV1Pool": {
+      "token": 320000,
+      "ether": 850
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 32000000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 85000
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 32000000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 85000
+      }
+    ]
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0x383dc8957d89f91b4facdc23cc26ed19eabe10cc",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+    "excessAllowed": false,
+    "mockUniV1Pool": {
+      "token": 2700,
+      "ether": 80000
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 2750,
+        "pairToken": "ETH",
+        "pairTokenAmount": 81000
+      },
+      {
+        "amount": 3000,
+        "pairToken": "DAI",
+        "pairTokenAmount": 33266310
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 2750,
+        "pairToken": "ETH",
+        "pairTokenAmount": 81000
+      },
+      {
+        "fee": 3000,
+        "amount": 3000,
+        "pairToken": "DAI",
+        "pairTokenAmount": 33266310
+      }
+    ]
+  },
+  {
+    "name": "yearn finance",
+    "address": "0x36584e764604beeae1f5c672000996c6a7d27cba",
+    "symbol": "YFI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png",
+    "excessAllowed": false,
+    "mockUniV1Pool": {
+      "token": 256,
+      "ether": 21000
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 254,
+        "pairToken": "ETH",
+        "pairTokenAmount": 21300
+      },
+      {
+        "amount": 300,
+        "pairToken": "DAI",
+        "pairTokenAmount": 9471791
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 254,
+        "pairToken": "ETH",
+        "pairTokenAmount": 21300
+      },
+      {
+        "fee": 3000,
+        "amount": 300,
+        "pairToken": "DAI",
+        "pairTokenAmount": 9471791
+      }
+    ]
+  },
+  {
+    "name": "Pickle Finance",
+    "address": "0xeadd1099617adbcd4e6f5590b1d7e0939c83cba8",
+    "symbol": "PICKLE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5/logo.png",
+    "excessAllowed": false,
+    "mockUniV1Pool": {
+      "token": 300000,
+      "ether": 20000
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 310000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 22000
+      },
+      {
+        "amount": 1000,
+        "pairToken": "YFI",
+        "pairTokenAmount": 1000
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 310000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 22000
+      },
+      {
+        "fee": 3000,
+        "amount": 1000,
+        "pairToken": "YFI",
+        "pairTokenAmount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Uniswap",
+    "address": "0x90872d6628a311acc03346ff75c2f8f14a7213c5",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+    "excessAllowed": false,
+    "mockUniV1Pool": {
+      "token": 24000000,
+      "ether": 17500
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 24400000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 16500
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 24400000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 16500
+      }
+    ]
+  },
+  {
+    "name": "MoonSwap",
+    "address": "0x5278e25e0e176e4a40b7d86200d4b8dd92adcf76",
+    "symbol": "MOON",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824/logo.png",
+    "excessAllowed": false,
+    "mockUniV1Pool": {
+      "token": 2750000,
+      "ether": 12000
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 2758000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 11000
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 2758000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 11000
+      }
+    ]
+  },
+  {
+    "name": "Chainlink",
+    "address": "0xf102e3799a8a927cf7fcd2c77b243fc09f9b83d7",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
+    "excessAllowed": false,
+    "mockUniV1Pool": {
+      "token": 418000,
+      "ether": 12000
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 417000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 12200
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 417000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 12200
+      }
+    ]
+  },
+  {
+    "name": "Aave",
+    "address": "0xdb7eebd5b20f262517590e740af78bde8740e20d",
+    "symbol": "LEND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png",
+    "excessAllowed": false,
+    "mockUniV1Pool": {
+      "token": 6500000,
+      "ether": 9500
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 6510000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 9300
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 6510000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 9300
+      }
+    ]
+  },
+  {
+    "name": "Sushi",
+    "address": "0xaf933cb3d1df5f3d95b744e270d825ed9ce4e66f",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.exchange/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2.png",
+    "excessAllowed": false,
+    "mockUniV1Pool": {
+      "token": 42000,
+      "ether": 1500
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 42500,
+        "pairToken": "ETH",
+        "pairTokenAmount": 1200
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 42500,
+        "pairToken": "ETH",
+        "pairTokenAmount": 1200
+      }
+    ]
+  },
+  {
+    "name": "Harvest Finance",
+    "address": "0x6b3d01ed74ffa310bd7b562e71ba1bd3f420d82c",
+    "symbol": "FARM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa0246c9032bC3A600820415aE600c6388619A14D/logo.png",
+    "excessAllowed": false,
+    "mockUniV1Pool": {
+      "token": 24000,
+      "ether": 8600
+    },
+    "mockUniV2Pools": [
+      {
+        "amount": 24200,
+        "pairToken": "ETH",
+        "pairTokenAmount": 8300
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 24200,
+        "pairToken": "ETH",
+        "pairTokenAmount": 8300
+      }
+    ]
+  },
+  {
+    "name": "Cheez",
+    "address": "0x74aba9a977dd1e91cab1299abe6e7008676b73a7",
+    "symbol": "CHZ",
+    "decimals": 18,
+    "excessAllowed": false
+  },
+  {
+    "name": "BrokenToken",
+    "address": "0x8a5b98a084c97a909daca41471a90ad2f76b3ac1",
+    "symbol": "BROKEN",
+    "decimals": 18,
+    "excessAllowed": false,
+    "breakAfterPoolDeploy": true,
+    "mockUniV2Pools": [
+      {
+        "amount": 5000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 1000
+      }
+    ],
+    "mockUniV3Pools": [
+      {
+        "fee": 3000,
+        "amount": 5000,
+        "pairToken": "ETH",
+        "pairTokenAmount": 1000
+      }
+    ]
+  }
+]
