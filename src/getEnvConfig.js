@@ -3,7 +3,7 @@ const goerliConfig = require('../config/network.config.goerli1.json')
 const mainnetConfig = require('../config/network.config.mainnet1.json')
 
 const getEnvConfig = (env) => {
-  switch(environmentConfiguration) {
+  switch(env) {
     case 'local':
       return localConfig
       break
