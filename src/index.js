@@ -1,3 +1,3 @@
 module.exports = {
-  get getEnvConfig () { return require('./getEnvConfig') 
+  get getEnvConfig () { return require('./getEnvConfig') }
 }
