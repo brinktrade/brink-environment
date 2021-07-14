@@ -16,4 +16,4 @@ const getEnvConfig = (env) => {
   }
 }
 
-module.exports = deployData
+module.exports = getEnvConfig
