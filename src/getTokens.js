@@ -1,7 +1,7 @@
-const localConfig = require('../config/tokens.config.local1.json')
-const goerliConfig = require('../config/tokens.config.goerli1.json')
-const mainnetFullConfig = require('../config/tokens.config.mainnet1_full.json')
-const mainnetLimited= require('../config/tokens.config.mainnet1.json')
+const localConfig = require('../config/tokens.local1.json')
+const goerliConfig = require('../config/tokens.goerli1.json')
+const mainnetFullConfig = require('../config/tokens.mainnet1_full.json')
+const mainnetLimited= require('../config/tokens.mainnet1.json')
 
 const getTokens = (env, limit=false) => {
   switch(env) {
