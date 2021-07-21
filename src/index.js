@@ -1,3 +1,5 @@
 module.exports = {
-  loadEnvironment: require('./getEnvConfig')
+  loadEnvironment: require('./getEnvConfig'),
+  getTokens: require('./getTokens'),
+  getGasCosts: require('./getGasCosts')
 }
