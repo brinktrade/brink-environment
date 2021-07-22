@@ -1,9 +1,8 @@
 const localConfig = require('../config/tokens.local1.json')
 const goerliConfig = require('../config/tokens.goerli1.json')
-const mainnetFullConfig = require('../config/tokens.mainnet1_full.json')
-const mainnetLimited= require('../config/tokens.mainnet1.json')
+const mainnetConfig = require('../config/tokens.mainnet1_full.json')
 
-const getTokens = (env, limit=false) => {
+const getTokens = (env) => {
   switch(env) {
     case 'local':
       return localConfig
@@ -12,11 +11,7 @@ const getTokens = (env, limit=false) => {
       return goerliConfig
       break
     case 'mainnet':
-      if (limit) {
-        return mainnetLimited
-      } else {
-        return mainnetFullConfig
-      }
+      return mainnetConfig
       break
   }
 }
