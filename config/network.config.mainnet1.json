@@ -10,7 +10,7 @@
     {
       "name": "deployAndExecute",
       "contract": "DeployAndExecute",
-      "address": "0x222a492b1210316dc32a535f91b28178add73e1b"
+      "address": ""
     },
     {
       "name": "weth",
@@ -20,17 +20,12 @@
     {
       "name": "callExecutor",
       "contract": "CallExecutor",
-      "address": "0x1fb06ae9498d3643806e957bb4b3f2a7b83c7b88"
+      "address": ""
     },
     {
       "name": "accountLogic",
       "contract": "AccountLogic",
-      "address": "0xc6a464130f1dcd903ad5d1b4aa639dfd8d48bc46"
-    },
-    {
-      "name": "proxyAdminDelegated",
-      "contract": "ProxyAdminDelegated",
-      "address": "0x5b31177df22e6df0fef77f1f7b468e5304c7d1b5"
+      "address": ""
     },
     {
       "name": "uniswapFactory",
@@ -48,8 +43,6 @@
       "address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d"
     }
   ],
-  "adapterOwnerAddress": "0x71795b2d53ffbe5b1805fe725538e4f8fbd29e26",
-  "excessRecipientAddress": "0x71795b2d53ffbe5b1805fe725538e4f8fbd29e26",
   "accountVersion": "1",
   "accountDeploymentSalt": "0x07f35de90023a2abca1d8b55d7585c94a95de19c88e63aee9b84f85e62813f20",
   "contractDeploymentSalt": "0x07f35de90023a2abca1d8b55d7585c94a95de19c88e63aee9b84f85e62813f20"
