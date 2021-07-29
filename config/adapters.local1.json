@@ -3,19 +3,19 @@
     "name": "uniV2ExcessIn",
     "contract": "UniV2ExcessIn",
     "source": "UniswapV2",
-    "address": "0x16400b235096fa53ebd00f8a862d9b53c513fb62"
+    "address": "0x3b2d5e9b0e1520ffe6cc2374cd0b3eeb404abb85"
   },
   {
     "name": "uniV2ExcessOut",
     "contract": "UniV2ExcessOut",
     "source": "UniswapV2",
-    "address": "0x31300732a8a692b572c34b439da9d02e109daf3d"
+    "address": "0x0c72fe624a22470bb33795bd25d5d919ceff6de3"
   },
   {
     "name": "uniV2ExcessWethCrossPair",
     "contract": "UniV2ExcessWethCrossPair",
     "source": "UniswapV2",
-    "address": "0x6c4377830476a3c33d4a9dfcd87c5b75e2351fcd"
+    "address": "0xbaf50f1845194109fad43d3cab07459fc6c5986c"
   },
   {
     "name": "uniV3RangeOrdersAdapter",
