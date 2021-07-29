@@ -1,4 +1,5 @@
 module.exports = {
   loadEnvironment: require('./getEnvConfig'),
-  getTokens: require('./getTokens')
+  getTokens: require('./getTokens'),
+  getAdapters: require('./getAdapters')
 }
