@@ -1,6 +1,6 @@
 {
   "name": "@brinkninja/environment",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Setup and configuration for Brink environments",
   "main": "src/index.js",
   "dependencies": {},
