@@ -25,27 +25,17 @@
     {
       "name": "account",
       "contract": "Account",
-      "address": "0xff958de7f51ca8cc09c5496d4a1d93b10c3ad96f"
-    },
-    {
-      "name": "proxyAdminVerifier",
-      "contract": "ProxyAdminVerifier",
-      "address": "0x4f53841ab2bf7359875db830890ceef96f0aead0"
+      "address": "0x660465900270794e537b982f798bdc4634174023"
     },
     {
       "name": "cancelVerifier",
       "contract": "CancelVerifier",
-      "address": "0x3d93185e821f43769c27e3a64e1abfecf23ea65f"
+      "address": "0xba506d6b28e73a0ebacb3801ebfebabc4c373b59"
     },
     {
       "name": "limitSwapVerifier",
       "contract": "LimitSwapVerifier",
-      "address": "0x17aa637c7d09974d248233646d33cf65741be6a9"
-    },
-    {
-      "name": "uniswapV3RangeOrdersVerifier",
-      "contract": "UniswapV3RangeOrdersVerifier",
-      "address": "0xa315f8172d406a7ee5d7df0a4850b4c5e1c91f6a"
+      "address": "0xa96dc3076db393e83139c807227e53b54b007073"
     },
     {
       "name": "uniswapV2Factory",
