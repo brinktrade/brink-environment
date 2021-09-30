@@ -40,12 +40,12 @@
     {
       "name": "uniswapV2Factory",
       "contract": "UniswapV2Factory",
-      "address": "0xfa2589ac8e8390463a3a54fd1ab39aab8f8b6e34"
+      "address": "0x6a296c586400cb44b9c52d8cb0f3592e793cc256"
     },
     {
       "name": "uniswapV2Router02",
       "contract": "UniswapV2Router02",
-      "address": "0x53ca2c92cb51f9b9b6a25d537aa7e33c803bb011"
+      "address": "0x0f687acfc58c7172a033b1ae633bc58b005d4154"
     },
     {
       "name": "uniswapV3Factory",
