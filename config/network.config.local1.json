@@ -33,6 +33,11 @@
       "address": "0xba506d6b28e73a0ebacb3801ebfebabc4c373b59"
     },
     {
+      "name": "transferVerifier",
+      "contract": "TransferVerifier",
+      "address": "0x37428556d0e1f52b80ab29da0716164ca4849c07"
+    },
+    {
       "name": "limitSwapVerifier",
       "contract": "LimitSwapVerifier",
       "address": "0xa96dc3076db393e83139c807227e53b54b007073"
